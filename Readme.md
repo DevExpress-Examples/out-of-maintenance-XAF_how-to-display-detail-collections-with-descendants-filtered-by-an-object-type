@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [BO.cs](./CS/WinWebSolution.Module/BO.cs) (VB: [BO.vb](./VB/WinWebSolution.Module/BO.vb))
+<!-- default file list end -->
 # How to display detail collections with descendants filtered by an object type
 
 
